@@ -13,17 +13,17 @@ Churned Customers: Shows the number of customers who have churned (2K), accounti
 
 **Key Insights**
 
-Gender Distribution:
+**Gender Distribution:**
 Male customers: 57% (5K)
 Female customers: 43% (3K)
 
-Active Customers:
+**Active Customers:**
 Active customers: 55% (4K)
 Inactive customers: 45% (4K)
 Card Ownership: Customers with cards: 71% (6K)
 Without cards: 29% (2K)
 
-Customers & Churn Analysis by Metrics
+**Customers & Churn Analysis by Metrics**
 Age: Customers aged 31-40 represent the largest segment (3914) with a churn rate of 13.7%.
 Highest churn rate observed in the 41-50 age group (51.5%).
 Balance: Visualization highlights the distribution of customers across different balance ranges.
@@ -36,10 +36,16 @@ Products: Insights into product adoption among customers and its effect on churn
 **Detailed Breakdown Table**
 
 Includes granular details for:
+
 Age groups
+
 Total customers
+
 Retained customers
+
 Retention %
+
 Churned customers
+
 Churn rate %
 
