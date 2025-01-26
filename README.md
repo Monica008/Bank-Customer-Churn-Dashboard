@@ -8,29 +8,43 @@ This Power BI dashboard provides insights into customer churn behavior, enabling
 **Overview**
 
 Total Customers: Displays the total number of customers (8K).
+
 Retained Customers: Highlights the number of customers retained (8K), along with a retention rate of 100%.
+
 Churned Customers: Shows the number of customers who have churned (2K), accounting for 25.6% churn.
 
 **Key Insights**
 
 **Gender Distribution:**
+
 Male customers: 57% (5K)
+
 Female customers: 43% (3K)
 
 **Active Customers:**
 Active customers: 55% (4K)
+
 Inactive customers: 45% (4K)
+
 Card Ownership: Customers with cards: 71% (6K)
+
 Without cards: 29% (2K)
 
 **Customers & Churn Analysis by Metrics**
 Age: Customers aged 31-40 represent the largest segment (3914) with a churn rate of 13.7%.
+
 Highest churn rate observed in the 41-50 age group (51.5%).
+
 Balance: Visualization highlights the distribution of customers across different balance ranges.
+
 Correlation between high balances and churn percentages.
+
 Credit Score: Highlights customer distribution based on their credit scores (details not shown here but likely interactive).
+
 Tenure: Shows how customer churn correlates with their tenure in years.
+
 Country: Country-specific churn analysis (not visible in the screenshot but may indicate global patterns).
+
 Products: Insights into product adoption among customers and its effect on churn.
 
 **Detailed Breakdown Table**
